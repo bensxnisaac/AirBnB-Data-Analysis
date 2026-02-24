@@ -36,14 +36,13 @@ The objective is to derive actionable insights for hosts and potential investors
 - Filled missing host names with "Unknown"
 - Converted date columns to datetime format
 - Handled missing review metrics
-<!-- - Checked for price outliers -->
+- Checked for price outliers
 
 ---
 
 ## Key Insights
 
-- Brooklyn has the highest number of listings.
-- Manhattan has the highest average price.
+- Manhattan has the highest average price and highest number of listings.
 - Entire homes command premium pricing.
 - Price distribution is heavily right-skewed.
 - Moderate-priced listings receive more reviews.
