@@ -23,7 +23,6 @@ The objective is to derive actionable insights for hosts and potential investors
 
 - Python
 - Pandas
-- NumPy
 - Seaborn
 - Matplotlib
 - Jupyter Notebook
